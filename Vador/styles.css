@@ -24,3 +24,8 @@ img {
     margin: auto;
 
 }
+
+p {
+    font-style: italic;
+    font-size: large;
+}
